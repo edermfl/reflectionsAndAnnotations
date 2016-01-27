@@ -1,4 +1,4 @@
-package br.com.ederleite.example.whitebox.domain.annotations;
+package br.com.ederleite.example.reflectionsAndAnnotations.domain.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

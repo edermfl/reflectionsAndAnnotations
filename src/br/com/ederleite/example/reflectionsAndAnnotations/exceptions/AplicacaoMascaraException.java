@@ -1,4 +1,4 @@
-package br.com.ederleite.example.whitebox.exceptions;
+package br.com.ederleite.example.reflectionsAndAnnotations.exceptions;
 
 /**
  * Created by eml on 27/01/16.

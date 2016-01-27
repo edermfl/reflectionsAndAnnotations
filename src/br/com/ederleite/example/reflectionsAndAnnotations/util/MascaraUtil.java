@@ -1,7 +1,7 @@
-package br.com.ederleite.example.whitebox.util;
+package br.com.ederleite.example.reflectionsAndAnnotations.util;
 
-import br.com.ederleite.example.whitebox.exceptions.AplicacaoMascaraException;
-import br.com.ederleite.example.whitebox.domain.annotations.Mascara;
+import br.com.ederleite.example.reflectionsAndAnnotations.domain.annotations.Mascara;
+import br.com.ederleite.example.reflectionsAndAnnotations.exceptions.AplicacaoMascaraException;
 
 import javax.swing.text.MaskFormatter;
 import java.lang.reflect.Field;
@@ -10,7 +10,7 @@ import java.text.ParseException;
 /**
  * Created by eml on 27/01/16.
  */
-public class MascaraUtil{
+public class MascaraUtil {
 
     public void aplicarMascara(final Object objeto) {
 	// como dito, tudo inicia no class do objeto

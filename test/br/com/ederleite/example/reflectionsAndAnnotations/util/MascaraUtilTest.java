@@ -1,6 +1,6 @@
-package br.com.ederleite.example.whitebox.util;
+package br.com.ederleite.example.reflectionsAndAnnotations.util;
 
-import br.com.ederleite.example.whitebox.domain.model.Pessoa;
+import br.com.ederleite.example.reflectionsAndAnnotations.domain.model.Pessoa;
 import junit.framework.TestCase;
 import org.junit.Assert;
 

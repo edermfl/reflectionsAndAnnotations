@@ -1,6 +1,6 @@
-package br.com.ederleite.example.whitebox.domain.model;
+package br.com.ederleite.example.reflectionsAndAnnotations.domain.model;
 
-import br.com.ederleite.example.whitebox.domain.annotations.Mascara;
+import br.com.ederleite.example.reflectionsAndAnnotations.domain.annotations.Mascara;
 
 /**
  * Created by eml on 27/01/16.
